@@ -1,0 +1,12 @@
+https://docs.google.com/document/d/13yJfnaYrOIkTLNsdzbrnrgOGKYgQV42GFfqeWpci1Ow/edit?tab=t.0
+
+Hosts
+Clients & Servers
+IP address
+Network separators
+OSI model
+Layer 1: Physical
+Layer 2: Data link: 
+Layer 3: Network
+Layer 4: Transport
+Layer 5-7: Application layer (based on the TCP/IP model)
